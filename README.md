@@ -5,8 +5,6 @@
 ¡Hola! Soy Hector Arismendi, un ingeniero de software apasionado por la programación en Python y un poco de JavaScript. Con más de 3 años de experiencia en el mundo de la programación, estoy dedicado a crear soluciones innovadoras y eficientes para diversas aplicaciones.
 ![grid-snake](https://github.com/hramses1/hramses1/assets/79066311/a40bffb7-b416-4b34-a0be-0ec7ac21094e)
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
 ### Resumen Profesional
 
 - 💻 Ingeniero de Software graduado de la Universidad Estatal de Milagro.
