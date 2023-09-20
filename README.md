@@ -29,19 +29,6 @@
 </a>
 </p>
 
-
-### Formación Adicional
-
-- 🛠️ Reparación de Computadoras: Amplié mis habilidades técnicas para comprender mejor el hardware y el software de las computadoras.
-
-- 📊 Excel Medio-Alto: Domino el uso de Excel para análisis de datos y creación de informes.
-
-- 📜 Certificados de Udemy: He completado cursos en Python (Básico e Intermedio/Avanzado), Redes Informáticas, SQL Server, JavaScript y más.
-
-### Proyectos Destacados
-
-- 🌱 Cultivo Hidropónico Automatizado: Ganador del primer lugar en la feria de ciencia y tecnología de mi universidad. Este proyecto combinó Python, Arduino, JavaScript y SQL para automatizar un cultivo hidropónico.
-
 ### Contacto
 
 ¡Estoy siempre abierto a nuevas oportunidades y desafíos! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/hector-arismendi-469551167/), donde estaré encantado de conectar contigo y discutir posibles colaboraciones o proyectos emocionantes.
