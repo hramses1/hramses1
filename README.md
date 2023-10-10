@@ -1,4 +1,5 @@
 ### Hi, I'm Hector Arismendi 👋🏼 👨🏼‍💻
+### CEO DE SoftDevCore
 
 ## Ingeniero de Software | Desarrollador Python FullStask
 
