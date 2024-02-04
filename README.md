@@ -3,7 +3,7 @@
 
 ## Ingeniero de Software | Desarrollador Python FullStask
 
-¡Hola! Soy Hector Arismendi, un ingeniero de software apasionado por la programación en Python y un poco de JavaScript. Con más de 3 años de experiencia en el mundo de la programación, estoy dedicado a crear soluciones innovadoras y eficientes para diversas aplicaciones.
+¡Hola! Soy Hector Arismendi, un ingeniero de software apasionado por la programación en Python y de JavaScript. Con más de 4 años de experiencia en el mundo de la programación, estoy dedicado a crear soluciones innovadoras y eficientes para diversas aplicaciones.
 ![grid-snake](https://github.com/hramses1/hramses1/assets/79066311/a40bffb7-b416-4b34-a0be-0ec7ac21094e)
 
 ### Resumen Profesional
@@ -12,6 +12,7 @@
 - 🌟 Especializado en desarrollo de software y programación en Python y JavaScript.
 - 🤝 Experiencia como Desarrollador Freelancer en una variedad de proyectos.
 - 📚 Constantemente en busca de nuevos conocimientos y aprendizaje continuo.
+- 💻 Actualmente trabajando como Automated QA Testing.
 
 ### Habilidades Destacadas
 
