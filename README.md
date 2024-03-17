@@ -12,7 +12,7 @@
 - 🌟 Especializado en desarrollo de software y programación en Python y JavaScript.
 - 🤝 Experiencia como Desarrollador Freelancer en una variedad de proyectos.
 - 📚 Constantemente en busca de nuevos conocimientos y aprendizaje continuo.
-- 💻 Actualmente trabajando como Automated QA Testing.
+- 💻 Actualmente trabajando como Desarrollador de Software .
 
 ### Habilidades Destacadas
 
