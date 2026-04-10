@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hector Arismendi 👋🏼 👨🏼‍💻</h1>
 
 <h3 align="center">SDET | QA Automation Engineer | Backend Developer</h3>
-<h5 align="center">CEO de Devzio Solutions/h5>
+<h5 align="center">CEO de Devzio Solutions </h5>
 
 <p align="center">
   ¡Hola! Soy un Ingeniero de Software apasionado por la automatización de pruebas y el desarrollo backend. Con más de 4 años de experiencia en la industria, me especializo en garantizar la calidad del software (QA) creando frameworks de pruebas robustos y desarrollando soluciones eficientes y escalables utilizando <b>Python</b> y <b>JavaScript/TypeScript</b>.
